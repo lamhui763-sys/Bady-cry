@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of BB叫聲翻譯器",
+  "description": "一款專為家長及寵物主人設計的應用程式，利用 AI 技術幫助您理解寶寶哭聲、寵物叫聲與行為背後的需求。功能包括即時錄製聲音與影像、翻譯分析、歷史紀錄查詢，並根據分析結果提供實用建議。",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
